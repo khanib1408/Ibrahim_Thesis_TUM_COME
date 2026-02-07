@@ -34,7 +34,7 @@ This repository is **not** intended to replicate or disclose any proprietary ind
 ## Thesis Context
 This repository accompanies the Master’s thesis:
 
-**“Early Alarm Detection in Industrial Continuous Processes”**  
+**“Process Analysis and Data-Driven Modeling for Fault Detection in High-Speed Layering of Nonwoven Fabric”**  
 Master’s Thesis, Computational Mechanics  
 Technical University of Munich (TUM)
 
